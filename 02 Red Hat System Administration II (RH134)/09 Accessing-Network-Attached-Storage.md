@@ -1,0 +1,2 @@
+history -w /dev/stdout
+
